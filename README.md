@@ -43,7 +43,7 @@ The system was evaluated across four commonly used image similarity metrics:
 The combination of **Caption + Line Art** consistently yielded the best results across all metrics, demonstrating the effectiveness of using structured semantic compression for high-quality image reconstruction.
 
 ## Project Structure
-.
+- .
 - `├── models/                # Model weights and configurations`
 - `├── data/                  # Input samples and control images`
 - `├── scripts/               # Training and inference scripts`
