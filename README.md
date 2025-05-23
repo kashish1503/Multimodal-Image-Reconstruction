@@ -44,13 +44,13 @@ The combination of **Caption + Line Art** consistently yielded the best results 
 
 ## Project Structure
 .
-├── models/                # Model weights and configurations
-├── data/                  # Input samples and control images
-├── scripts/               # Training and inference scripts
-├── results/               # Output visualizations
-├── utils/                 # Supporting code
-├── README.md              # Project documentation
-└── report.pdf             # Detailed project report
+- `├── models/                # Model weights and configurations`
+- `├── data/                  # Input samples and control images`
+- `├── scripts/               # Training and inference scripts`
+- `├── results/               # Output visualizations`
+- `├── utils/                 # Supporting code`
+- `├── README.md              # Project documentation`
+- `└── report.pdf             # Detailed project report`
 
 ## Key Insights
 
